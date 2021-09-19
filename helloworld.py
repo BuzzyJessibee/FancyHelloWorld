@@ -9,5 +9,6 @@ Some important notes:
     Escape codes retrieved from https://stackoverflow.com/a/287944
 '''
 
-print("\033[94mHello World!\033[0m") # Hello World
+print("\033[94mHello World!\033[0m") # Hello World | in blue
 print("\033[93mWelcome to the GitHub of \033[0m\033[95m\033[4mLyrasaurusRose!\033[0m")
+# Welcome to the GitHub of LyrasaurusRose! | in Yellow and Purple
